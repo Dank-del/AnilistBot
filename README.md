@@ -195,7 +195,7 @@ Since I will be keeping this README up to date with any major change and I don't
 # Deployment
 This bot is up and running at [Heroku](http://heroku.com/) in a [Docker](https://www.docker.com/) container. You can also deploy yourself this bot into Heroku through:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fazendaaa/AnilistBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dank-del/AnilistBot)
 
 But if you use [Azure](https://azure.microsoft.com/):
 
